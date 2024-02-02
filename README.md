@@ -1,1 +1,1 @@
-Kyoungjun Park's Homepage
+Jino's Homepage
