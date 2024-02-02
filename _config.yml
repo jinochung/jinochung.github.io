@@ -1,0 +1,9 @@
+# Site settings
+title: 'Jino Chung'
+description: 'Jino Chung'
+url: 'https://jinochung.github.io/'
+google_analytics: 'UA-167280609-1'
+
+author:
+  name: 'kyoungjun'
+  email: kjpark@cs.utexas.edu
